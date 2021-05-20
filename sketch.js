@@ -1,11 +1,11 @@
 
 function preload(){
-  //pre-load images
+  //imagens pré-carregadas
 }
 
 function setup(){
   createCanvas(400,400);
-  //create sprites here
+  //crie sprite aqui
 }
 
 function draw() {
